@@ -1,0 +1,1 @@
+print("Start my CS master journey")
