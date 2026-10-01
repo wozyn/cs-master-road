@@ -1,1 +1,1 @@
-print("Start my CS master journey")
+print("Start my CS master trjourney")
