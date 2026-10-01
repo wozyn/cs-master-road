@@ -1,0 +1,15 @@
+# Java 编译文件
+*.class
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# Python 虚拟环境
+.venv/
+venv/
+
+# 程序生成的结果文件
+result.json
+students.json
+summary.json
