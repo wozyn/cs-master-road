@@ -13,3 +13,7 @@ venv/
 result.json
 students.json
 summary.json
+# Local environment files and credentials
+.env
+.env.*
+!.env.example
